@@ -1,4 +1,5 @@
 Home Credit Default Risk Prediction
+Download data from:https://www.kaggle.com/c/home-credit-default-risk
 1. Project Overview
 
 Home Credit aims to expand financial inclusion by providing loans to individuals with limited or no credit history. This project addresses the Home Credit Default Risk problem by building machine learning models to predict the probability of loan default using applicant demographic, financial, and credit history data.
@@ -88,9 +89,9 @@ Recall
 
 F1-score
 
-ROC–AUC
+ROCâ€“AUC
 
-Emphasis was placed on recall and ROC–AUC, as false negatives are costly in credit risk assessment.
+Emphasis was placed on recall and ROCâ€“AUC, as false negatives are costly in credit risk assessment.
 
 6. Key Insights
 
